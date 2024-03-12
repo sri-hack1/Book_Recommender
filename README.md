@@ -4,7 +4,7 @@ Book Recommendation Project
 Overview
 
 The Book Recommendation Project is a web application that allows users to input their favorite books, saves them to a database, and provides personalized recommendations based on their preferences.
-Features
+Features:-
 
     User Input:
         Users can input their favorite books through the user-friendly GUI interface.
