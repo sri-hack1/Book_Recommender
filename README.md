@@ -1,5 +1,3 @@
-# Book_Recommender
-
 # Book Recommendation Project
 
 ## Overview
